@@ -27,7 +27,7 @@ namespace Debug_Lab6
         public static void Main(string[] args)
         {
            Converter converter = new Converter();
-           Console.WriteLine(converter.ToBinary(""));
+           Console.WriteLine(converter.ToBinary("-2147483647"));
         }
     }
     

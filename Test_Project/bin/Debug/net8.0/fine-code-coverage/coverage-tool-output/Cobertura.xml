@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.857142857142857" branch-rate="1" lines-covered="30" lines-valid="35" branches-covered="4" branches-valid="4" complexity="10" version="0" timestamp="1728673526">
+<coverage line-rate="0.857142857142857" branch-rate="1" lines-covered="30" lines-valid="35" branches-covered="4" branches-valid="4" complexity="10" version="0" timestamp="1728720552">
   <sources>
     <source>C:\Users\komet\</source>
   </sources>
@@ -89,7 +89,7 @@
                 <line number="17" hits="6" branch="false" />
                 <line number="20" hits="6" branch="false" />
                 <line number="23" hits="6" branch="false" />
-                <line number="24" hits="6" branch="false" />
+                <line number="24" hits="4" branch="false" />
               </lines>
             </method>
             <method name="ToBinary_ShouldThrowArgumentException_ForEmptyString" signature="()" line-rate="1" branch-rate="1" complexity="1">
@@ -118,7 +118,7 @@
             <line number="17" hits="6" branch="false" />
             <line number="20" hits="6" branch="false" />
             <line number="23" hits="6" branch="false" />
-            <line number="24" hits="6" branch="false" />
+            <line number="24" hits="4" branch="false" />
             <line number="29" hits="1" branch="false" />
             <line number="31" hits="1" branch="false" />
             <line number="32" hits="1" branch="false" />

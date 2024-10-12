@@ -102,3 +102,4 @@ C:\Users\komet\source\repos\Debug_Lab6\Test_Project\obj\Debug\net8.0\refint\Test
 C:\Users\komet\source\repos\Debug_Lab6\Test_Project\obj\Debug\net8.0\Test_Project.pdb
 C:\Users\komet\source\repos\Debug_Lab6\Test_Project\obj\Debug\net8.0\Test_Project.genruntimeconfig.cache
 C:\Users\komet\source\repos\Debug_Lab6\Test_Project\obj\Debug\net8.0\ref\Test_Project.dll
+C:\Users\komet\source\repos\Debug_Lab6\Test_Project\obj\Debug\net8.0\Test_Project.sourcelink.json

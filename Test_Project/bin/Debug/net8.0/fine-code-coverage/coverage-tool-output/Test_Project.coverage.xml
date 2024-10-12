@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.8571" branch-rate="1" version="1.9" timestamp="1728662726" lines-covered="30" lines-valid="35" branches-covered="4" branches-valid="4">
+<coverage line-rate="0.8571" branch-rate="1" version="1.9" timestamp="1728709751" lines-covered="30" lines-valid="35" branches-covered="4" branches-valid="4">
   <sources>
     <source>C:\Users\komet\</source>
   </sources>
@@ -92,7 +92,7 @@
                 <line number="17" hits="6" branch="False" />
                 <line number="20" hits="6" branch="False" />
                 <line number="23" hits="6" branch="False" />
-                <line number="24" hits="6" branch="False" />
+                <line number="24" hits="4" branch="False" />
               </lines>
             </method>
             <method name="ToBinary_ShouldThrowArgumentException_ForEmptyString" signature="()" line-rate="1" branch-rate="1" complexity="1">
@@ -121,7 +121,7 @@
             <line number="17" hits="6" branch="False" />
             <line number="20" hits="6" branch="False" />
             <line number="23" hits="6" branch="False" />
-            <line number="24" hits="6" branch="False" />
+            <line number="24" hits="4" branch="False" />
             <line number="29" hits="1" branch="False" />
             <line number="31" hits="1" branch="False" />
             <line number="32" hits="1" branch="False" />

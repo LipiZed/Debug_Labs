@@ -12,3 +12,4 @@ C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\obj\Debug\net8.0\refint\Debug_
 C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\obj\Debug\net8.0\Debug_Lab6.pdb
 C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\obj\Debug\net8.0\Debug_Lab6.genruntimeconfig.cache
 C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\obj\Debug\net8.0\ref\Debug_Lab6.dll
+C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\obj\Debug\net8.0\Debug_Lab6.sourcelink.json
