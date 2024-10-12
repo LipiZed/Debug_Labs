@@ -10,7 +10,7 @@ namespace Debug_Lab6
         {
             if (!int.TryParse(number, out int s))
             {
-                throw new ArgumentException("Вы ввели не целое число");
+                throw new ArgumentException("Вы ввели не целое число или число превышает допустимый максимум");
             }
             if (number[0] == '-')
             {
@@ -27,7 +27,7 @@ namespace Debug_Lab6
         public static void Main(string[] args)
         {
            Converter converter = new Converter();
-           Console.WriteLine(converter.ToBinary("-2147483647"));
+           Console.WriteLine(converter.ToBinary("214748364"));
         }
     }
     
