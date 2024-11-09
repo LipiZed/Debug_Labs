@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Debug_Lab8
 {
-    internal interface IGraphReader
+    public interface IGraphReader
     {
         int[,] ReadGraph(string filePath);
     }

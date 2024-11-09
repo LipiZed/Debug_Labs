@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Debug_Lab8
 {
-    internal interface IGraphWriter
+    public interface IGraphWriter
     {
         void WriteGraph(int[,] adjacencyMatrix, string filePath);
     }
