@@ -1,0 +1,14 @@
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\bin\Debug\net8.0\Debug_Lab2.exe
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\bin\Debug\net8.0\Debug_Lab2.deps.json
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\bin\Debug\net8.0\Debug_Lab2.runtimeconfig.json
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\bin\Debug\net8.0\Debug_Lab2.dll
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\bin\Debug\net8.0\Debug_Lab2.pdb
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.AssemblyInfoInputs.cache
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.AssemblyInfo.cs
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.dll
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\refint\Debug_Lab2.dll
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.pdb
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\Debug_Lab2.genruntimeconfig.cache
+C:\Users\komet\source\repos\Debug_Lab2\Debug_Lab2\obj\Debug\net8.0\ref\Debug_Lab2.dll
