@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.857142857142857" branch-rate="1" lines-covered="30" lines-valid="35" branches-covered="4" branches-valid="4" complexity="10" version="0" timestamp="1728722130">
+<coverage line-rate="0.871794871794872" branch-rate="1" lines-covered="34" lines-valid="39" branches-covered="4" branches-valid="4" complexity="11" version="0" timestamp="1732287469">
   <sources>
     <source>C:\Users\komet\</source>
   </sources>
@@ -11,63 +11,63 @@
           <methods>
             <method name="ToBinary" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
               <lines>
-                <line number="10" hits="10" branch="false" />
-                <line number="11" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="9" hits="10" branch="false" />
+                <line number="10" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="11" hits="3" branch="false" />
                 <line number="12" hits="3" branch="false" />
-                <line number="13" hits="3" branch="false" />
-                <line number="15" hits="7" branch="true" condition-coverage="100% (2/2)" />
+                <line number="14" hits="7" branch="true" condition-coverage="100% (2/2)" />
+                <line number="15" hits="3" branch="false" />
                 <line number="16" hits="3" branch="false" />
                 <line number="17" hits="3" branch="false" />
                 <line number="18" hits="3" branch="false" />
-                <line number="19" hits="3" branch="false" />
+                <line number="20" hits="4" branch="false" />
                 <line number="21" hits="4" branch="false" />
-                <line number="22" hits="4" branch="false" />
-                <line number="23" hits="7" branch="false" />
+                <line number="22" hits="7" branch="false" />
               </lines>
             </method>
             <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="10" branch="false" />
+                <line number="6" hits="10" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="7" hits="10" branch="false" />
-            <line number="10" hits="10" branch="false" />
-            <line number="11" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="6" hits="10" branch="false" />
+            <line number="9" hits="10" branch="false" />
+            <line number="10" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="11" hits="3" branch="false" />
             <line number="12" hits="3" branch="false" />
-            <line number="13" hits="3" branch="false" />
-            <line number="15" hits="7" branch="true" condition-coverage="100% (2/2)" />
+            <line number="14" hits="7" branch="true" condition-coverage="100% (2/2)" />
+            <line number="15" hits="3" branch="false" />
             <line number="16" hits="3" branch="false" />
             <line number="17" hits="3" branch="false" />
             <line number="18" hits="3" branch="false" />
-            <line number="19" hits="3" branch="false" />
+            <line number="20" hits="4" branch="false" />
             <line number="21" hits="4" branch="false" />
-            <line number="22" hits="4" branch="false" />
-            <line number="23" hits="7" branch="false" />
+            <line number="22" hits="7" branch="false" />
           </lines>
         </class>
         <class name="Debug_Lab6.Programm" filename="C:\Users\komet\source\repos\Debug_Lab6\Debug_Lab6\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
+                <line number="27" hits="0" branch="false" />
                 <line number="28" hits="0" branch="false" />
                 <line number="29" hits="0" branch="false" />
                 <line number="30" hits="0" branch="false" />
-                <line number="31" hits="0" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
+            <line number="27" hits="0" branch="false" />
             <line number="28" hits="0" branch="false" />
             <line number="29" hits="0" branch="false" />
             <line number="30" hits="0" branch="false" />
-            <line number="31" hits="0" branch="false" />
           </lines>
         </class>
       </classes>
     </package>
-    <package name="Test_Project" line-rate="0.944444444444444" branch-rate="1" complexity="4">
+    <package name="Test_Project" line-rate="0.954545454545455" branch-rate="1" complexity="5">
       <classes>
         <class name="AutoGeneratedProgram" filename="C:\Users\komet\.nuget\packages\microsoft.net.test.sdk\17.11.1\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -81,56 +81,68 @@
             <line number="4" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="ConverterTests" filename="C:\Users\komet\source\repos\Debug_Lab6\Test_Project\Class1.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="ConverterTests" filename="C:\Users\komet\source\repos\Debug_Lab6\Test_Project\Class1.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="ToBinary_ShouldReturnCorrectBinary_ForValidInputs" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="17" hits="8" branch="false" />
-                <line number="19" hits="8" branch="false" />
-                <line number="22" hits="8" branch="false" />
-                <line number="25" hits="7" branch="false" />
-                <line number="26" hits="7" branch="false" />
+                <line number="16" hits="7" branch="false" />
+                <line number="17" hits="7" branch="false" />
+                <line number="19" hits="7" branch="false" />
+                <line number="21" hits="7" branch="false" />
+                <line number="22" hits="7" branch="false" />
+              </lines>
+            </method>
+            <method name="ToBinary_ShouldThrowException_ForEmptyInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="2" branch="false" />
+                <line number="28" hits="1" branch="false" />
               </lines>
             </method>
             <method name="ToBinary_ShouldThrowArgumentException_ForEmptyString" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="31" hits="1" branch="false" />
                 <line number="33" hits="1" branch="false" />
-                <line number="34" hits="1" branch="false" />
-                <line number="37" hits="2" branch="false" />
-                <line number="38" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="38" hits="2" branch="false" />
                 <line number="39" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
               </lines>
             </method>
             <method name="ToBinary_ShouldThrowArgumentException_ForInvalidString" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="44" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
                 <line number="46" hits="1" branch="false" />
                 <line number="47" hits="1" branch="false" />
-                <line number="50" hits="2" branch="false" />
+                <line number="49" hits="2" branch="false" />
+                <line number="50" hits="1" branch="false" />
                 <line number="51" hits="1" branch="false" />
-                <line number="52" hits="1" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="17" hits="8" branch="false" />
-            <line number="19" hits="8" branch="false" />
-            <line number="22" hits="8" branch="false" />
-            <line number="25" hits="7" branch="false" />
-            <line number="26" hits="7" branch="false" />
-            <line number="31" hits="1" branch="false" />
+            <line number="16" hits="7" branch="false" />
+            <line number="17" hits="7" branch="false" />
+            <line number="19" hits="7" branch="false" />
+            <line number="21" hits="7" branch="false" />
+            <line number="22" hits="7" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="2" branch="false" />
+            <line number="28" hits="1" branch="false" />
             <line number="33" hits="1" branch="false" />
-            <line number="34" hits="1" branch="false" />
-            <line number="37" hits="2" branch="false" />
-            <line number="38" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="38" hits="2" branch="false" />
             <line number="39" hits="1" branch="false" />
-            <line number="44" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
             <line number="46" hits="1" branch="false" />
             <line number="47" hits="1" branch="false" />
-            <line number="50" hits="2" branch="false" />
+            <line number="49" hits="2" branch="false" />
+            <line number="50" hits="1" branch="false" />
             <line number="51" hits="1" branch="false" />
-            <line number="52" hits="1" branch="false" />
           </lines>
         </class>
       </classes>

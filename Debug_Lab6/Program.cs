@@ -1,5 +1,4 @@
 ﻿using System;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Debug_Lab6
 {
@@ -26,8 +25,7 @@ namespace Debug_Lab6
     {
         public static void Main(string[] args)
         {
-           Converter converter = new Converter();
-           Console.WriteLine(converter.ToBinary("214748364"));
+
         }
     }
     
